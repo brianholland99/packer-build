@@ -1,0 +1,7 @@
+*.swp
+packer_cache
+*.box
+output-*
+*.ovf
+*.vdi
+*.vmdk
